@@ -1,0 +1,1 @@
+an extension of the openv0 project to enable multimodality in generative UI
